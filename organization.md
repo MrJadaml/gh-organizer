@@ -1,8 +1,8 @@
 # Gloomhaven Organization
-## A plan for organizing based on component use w/ expectation to be using the GH Helper App.
+**A plan for organizing based on component use w/ expectation to be using the GH Helper App**
 
 ### Setup
-#### Bring them out, do the setup, put the rest away.
+**Bring them out, do the setup, put the rest away**
 
 [ Accordion Folder ]
 - 30x 2-Sided map tiles
@@ -19,7 +19,7 @@
 - 24x Battle goal cards [#458-481]
 
 ### Stand-by
-#### Bring out, but leave on the side
+**Bring out, but leave on the side**
 
 [ GH Box tray ] - Set aside after pull from other storage
 - 1x Rule book
@@ -44,7 +44,7 @@
 - Xx Money tokens (metal)
 
 ### Active Play
-#### Bring out and will be activly used during gameplay
+**Bring out and will be activly used during gameplay**
 
 [ Boken Token Player Trays ]
 - Xx Character miniatures/boxes
@@ -62,7 +62,7 @@
 - Xx HP/XP dials
 
 ### Passive Play
-#### Can bring out if we have space or left in the box during play to be brought out at the begining/end of the scenario
+**Can bring out if we have space or left in the box during play to be brought out at the begining/end of the scenario**
 
 [ GH Box ]
 - 1x Map board
@@ -86,8 +86,8 @@
 [ ?? ] - back of one of the free deck boxes?
 - 9x Random scenario cards [#482-490]
 
-### Unknown Hold Out
-#### Stuff that can be left in the box. Unlikely to get used, but could be triggered.
+### Unknown Hold Outs
+**Stuff that can be left in the box. Unlikely to get used, but could be triggered**
 
 [ GH Box tray ]
 - 1x Town records book
@@ -111,8 +111,8 @@
   - 228x Standard items [#748-975]
   - 25x Random items [#491-515]
 
-### Known Hold Out
-#### Can be left deep in the box, Very unlikey to be used even by event triggers.
+### Known Hold Outs
+**Can be left deep in the box, Very unlikey to be used even by event triggers**
 
 [ GH Box ]
 - Xx Character miniatures/boxes
@@ -133,7 +133,7 @@
   - 20x Monster [#554-573]
 
 ### Unused
-#### No need to even bring. Could be left at home and out of the box to save space/weight.
+**No need to even bring. Could be left at home and out of the box to save space/weight**
 
 [ Forgotten Circles Expansion Box ]
 - 1x Element infusion board
@@ -162,6 +162,7 @@
       - 10x ‘5’
 
 ## Storage Components
+**List of items needed to store all of the above**
 
 - GH Box
   - x? Plano box
